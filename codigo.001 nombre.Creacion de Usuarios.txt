@@ -15,7 +15,7 @@ datos necesarios para la creacion:
 proceso: 
 1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener la opcion de administracion de sitio, ver(cod.001 ima.001).
 2-Despues de verificar que puede ingresar a la adminstracion de sitio debe ingresar por la ruta Área personal/ Administración del sitio/Usuarios/Cuentas/Crear un nuevo usuario, ver(cod.001 ima.001)
-3-
+3-Se ingresa los valores en los campos (nombre, apellidos, direccion de correo) el campo de nombre de usuario este se debe asignara el numero de la cedula la cual tambien se asignara en la como contraseña de ingreso ver(cod.001 ima.003)
 
 
 
