@@ -1,5 +1,12 @@
 codigo:001 nombre:CREACION DE USUARIOS
 
+descripcion:
+
+datos necesarios para la creacion:
+
+proceso: 
+
 imagen:ima001
+
 
  
