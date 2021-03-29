@@ -13,8 +13,8 @@ datos necesarios para la creacion:
 -direccion de correo:obligatorio 
 
 proceso: 
-1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener la opcion de administracion de sitio ver(cod.001 ima.001).
-2-Despues de verificar que puede ingresar a la adminstracion de sitio debe ingresar por la ruta Área personal/ Administración del sitio/Usuarios/Cuentas/Crear un nuevo usuario ver(cod.001 ima.001)
+1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener la opcion de administracion de sitio, ver(cod.001 ima.001).
+2-Despues de verificar que puede ingresar a la adminstracion de sitio debe ingresar por la ruta Área personal/ Administración del sitio/Usuarios/Cuentas/Crear un nuevo usuario, ver(cod.001 ima.001)
 3-
 
 
