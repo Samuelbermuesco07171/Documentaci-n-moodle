@@ -2,16 +2,21 @@ codigo:001 nombre:CREACION DE USUARIOS
 
 descripcion:manual para la creacion de usuarios
 
-datos necesarios para la creacion:
+elementos necesarios:
+-direccion url:https://fendipetroleo.com/Virtual/admin/user.php
+-usuario administrador o gestor
 
+datos necesarios para la creacion:
 -nombre:obligatorio
 -apellido:obligatorio
 -cedula:obligatorio, la cedula se configurara tambien como nombre de usuario
--direccion url:https://fendipetroleo.com/Virtual/admin/user.php
-
+-direccion de correo:obligatorio 
 
 proceso: 
-1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener 
+1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener la opcion de administracion de sitio ver(cod.001 ima.001).
+2-Despues de verificar que puede ingresar a la adminstracion de sitio debe ingresar por la ruta Área personal/ Administración del sitio/Usuarios/Cuentas/Crear un nuevo usuario ver(cod.001 ima.001)
+3-
+
 
 
 imagen:ima001
