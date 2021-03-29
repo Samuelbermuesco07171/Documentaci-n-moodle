@@ -13,8 +13,8 @@ datos necesarios para la creacion:
 -email:opcinal	
 
 proceso: 
-1-.
-2-.
+1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener la opcion de administracion de sitio, ver(cod.001 ima.001).
+2-Luego de ingresar al sistema .
 3-.
 4..
 
