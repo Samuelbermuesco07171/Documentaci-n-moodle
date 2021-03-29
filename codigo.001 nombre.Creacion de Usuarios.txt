@@ -1,0 +1,5 @@
+codigo:001 nombre:CREACION DE USUARIOS
+
+imagen:ima001
+
+ 
