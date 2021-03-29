@@ -1,2 +1,2 @@
-# Documentaci-n-moodle
+# Documentacion-moodle
 Documentación de archivos de moodle
