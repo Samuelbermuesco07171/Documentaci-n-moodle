@@ -1,0 +1,20 @@
+codigo:002 nombre:VALIDACION DE USUARIOS
+
+descripcion:Manual para validar si un usuario exite en el sistema
+
+elementos necesarios:
+-direccion url:https://fendipetroleo.com/Virtual/admin/user.php
+-usuario administrador o gestor
+
+datos necesarios para la creacion:
+-nombre:opcional	
+-apellido:opcional
+-cedula:opcional, el numero de cedula al ser asignado tambien como usuario sirve en las dos busquedas
+-email:opcinal	
+
+proceso: 
+1-.
+2-.
+3-.
+4..
+
