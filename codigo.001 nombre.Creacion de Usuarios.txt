@@ -4,11 +4,15 @@ descripcion:manual para la creacion de usuarios
 
 datos necesarios para la creacion:
 
--nombre(obligatorio)
--apellido(obligatorio)
--cedula(obligatorio, la cedula se configurara tambien como nombre de usuario)
+-nombre:obligatorio
+-apellido:obligatorio
+-cedula:obligatorio, la cedula se configurara tambien como nombre de usuario
+-direccion url:https://fendipetroleo.com/Virtual/admin/user.php
+
 
 proceso: 
+1-se debe logear en el sistema con un usuario administrador o gestor, el cual debe tener 
+
 
 imagen:ima001
 
