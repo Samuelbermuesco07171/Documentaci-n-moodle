@@ -1,8 +1,12 @@
 codigo:001 nombre:CREACION DE USUARIOS
 
-descripcion:
+descripcion:manual para la creacion de usuarios
 
 datos necesarios para la creacion:
+
+-nombre(obligatorio)
+-apellido(obligatorio)
+-cedula(obligatorio, la cedula se configurara tambien como nombre de usuario)
 
 proceso: 
 
